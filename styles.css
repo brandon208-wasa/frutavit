@@ -1,0 +1,29 @@
+body {
+    font-family: Dreaming Outloud Pro
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+header, footer {
+    background-color: #ffa42e;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: #555;
+    padding: 0;
+}
+nav ul li {
+    margin: 0 1rem;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+section {
+    padding: 2rem;
+}
